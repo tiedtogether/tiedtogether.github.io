@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mui/x-data-grid": "^6.2.0",
+    "axios": "^1.3.5",
+    "mvn": "^3.5.0",
+    "ngrok": "^4.3.3"
+  }
+}
