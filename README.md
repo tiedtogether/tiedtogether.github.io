@@ -32,7 +32,7 @@
 ![image](https://github.com/tiedtogether/tiedtogether.github.io/assets/105828651/eef6bea7-f33b-46b0-bdbb-b11c25f02931)
 ![image](https://github.com/tiedtogether/tiedtogether.github.io/assets/105828651/7f5c2cb2-2a5c-462d-ad9f-87f6cda0bec2)
 
-`connect`
+`Connect`
 
 ![image](https://github.com/tiedtogether/tiedtogether.github.io/assets/105828651/3986376f-ca64-441a-8825-f1ede565be14)
 
