@@ -1,6 +1,6 @@
 # TIED-TOGETHER ♫
 
-### A web application for middle school band members to connect for free private instruction from high school tutors created by Eric Li, Pranav Ullas, and Mayank Konduri!
+### A web application for middle school band members to connect for free private instruction from high school tutors!
 
 ### Features:
 - tutors can create unique accounts with their KatyISD ID
