@@ -1,6 +1,6 @@
 # Tied Together ♫
 
-### A web application for middle school band members to connect for free private instruction from high school tutors!
+### A web application for middle school band members to connect for free private instruction with high school tutors!
 
 ### Features:
 - tutors can create unique accounts with their KatyISD ID
