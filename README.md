@@ -10,7 +10,7 @@
 - 🍃 all data is stored securely on MongoDB Atlas
 - and so much more!
 
-📽 Demo Video: http://bit.ly/tied-together-demo
+Demo Video 📽 : http://bit.ly/tied-together-demo
 
 ### Tutor Features 📚
 
