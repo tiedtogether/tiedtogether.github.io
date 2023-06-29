@@ -10,7 +10,17 @@
 - data is stored securely on MongoDB Atlas
 - and so much more!
 
-### Demo video: http://bit.ly/tied-together-demo 🧍
+### Demo video: http://bit.ly/tied-together-demo
+
+#### Tutor Features 📚
+
+- home page
+![image](https://github.com/tiedtogether/tiedtogether.github.io/assets/105828651/f301c9dc-2354-4d15-9acd-c7f14bb90849)
+
+- sign up
+![image](https://github.com/tiedtogether/tiedtogether.github.io/assets/105828651/55350144-4997-40ed-8f16-e3e39b8c34d1)
+
+
 
 #### Created by Eric Li, Pranav Ullas, and Mayank Konduri 🎉
 
