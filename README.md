@@ -1,4 +1,4 @@
-![image](https://github.com/tiedtogether/tiedtogether.github.io/assets/105828651/2803b8b5-0c0b-4795-bac4-ae090dedc1d4)# Tied Together ♫
+# Tied Together ♫
 
 ### A web application for middle school band members to connect for free private instruction from high school tutors!
 
