@@ -1,4 +1,4 @@
-# Tied-Together ♫
+# TIED TOGETHER ♫
 
 ### A web application for middle school band members to connect for free private instruction from high school tutors!
 
