@@ -10,8 +10,8 @@
 - data is stored securely on MongoDB Atlas
 - and so much more!
 
-#### Demo video: http://bit.ly/tied-together-demo 🧍
+### Demo video: http://bit.ly/tied-together-demo 🧍
 
-##### Created by Eric Li, Pranav Ullas, and Mayank Konduri 🎉
+#### Created by Eric Li, Pranav Ullas, and Mayank Konduri 🎉
 
 
